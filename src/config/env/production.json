@@ -1,0 +1,6 @@
+{
+    "port": 80,
+    "appName": "templateService-PROD",
+    "services": [],
+    "databases": []
+}
